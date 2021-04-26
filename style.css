@@ -1,0 +1,28 @@
+body{
+  background-image: url("background.jpg");
+  font-size: large;
+}
+.h11{
+  font-size: 30px;
+}
+.heading1{
+  font-size: 30px;
+}
+.heading2{
+  font-size: 30px;
+}
+.copy_right_footer{
+  background-color: cadetblue;
+  bottom: 0px;
+  text-align: center;
+  position: fixed;
+}
+canvas{
+  box-shadow:10px,10px,5px,5px crimson;
+  border-radius: 5px;
+  border: 6px solid crimson;
+  position: fixed;
+  margin-top: 150px;
+}
+
+ 
